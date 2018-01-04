@@ -34,5 +34,5 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'ACP_POSTINGTEMPLATE'			=> 'Posting template',
-	'ACP_POSTINGTEMPLATE_EXPLAIN'	=> 'Ao iniciar um tópico, o editor de texto será pré-preenchido com este modelo de postagem. Deixe em branco quando não deseja usar isso.',
+	'ACP_POSTINGTEMPLATE_EXPLAIN'	=> 'Ao iniciar um tópico, o editor de texto será pré-preenchido com este modelo de postagem. Deixe em branco quando você não desejar usar isso.',
 ));
