@@ -2,7 +2,7 @@
 
 /**
 * phpBB Extension - marttiphpbb posting template
-* Brazilian Portuguese translation by MarcosFPo (c) 2015 [ver 1.0.0] (https://github.com/phpBBTraducoes) 
+* Brazilian Portuguese translation by eunaumtenhoid (c) 2018 [ver 1.0.0] (https://github.com/phpBBTraducoes) 
 * @copyright (c) 2015 marttiphpbb <info@martti.be>
 * @license GNU General Public License, version 2 (GPL-2.0)
 */
